@@ -60,7 +60,7 @@ Hvis vi skulle laget gruppekontrakten på nytt, ville vi beholdt det meste slik 
 
 Totalt sett synes vi gruppekontrakten har fungert godt, og vi har ikke opplevd noen store problemer med den. Vi ville derfor valgt mange av de samme reglene og forventningene dersom vi skulle gjennomført et lignende gruppearbeid i framtiden.
 
-# Besvarelse - oppgave 3
+### Rammer for relasjonelle kontrakter 
 
 
 Relasjonelle kontrakter er en viktig faktor til prosjektets suksess. For eksempel hvordan samarbeidet mellom prosjektet skal foregå, hvilken informasjon som skal deles, og hvordan uenigheter skal tas opp, og møtepunkter. Selv om deltakerne kjenner hverandre fra før, vil det oppstå konflikter og uenigheter. Poenget med relasjonelle kontrakter er at de skal si noe om hvordan kontroll og styring skal organiseres, hvordan partene skal forholde seg til hverandre, og hvordan eventuelle konflikter skal læses. Dette vil bidra til å sette vekt på de organisatoriske og relasjonelle forutsetningene enn de tekniske og produksjonsmessige forholdene knyttet til tid, kostnad og kvalitet. (Jacobsen, 2016, s. 45) 
