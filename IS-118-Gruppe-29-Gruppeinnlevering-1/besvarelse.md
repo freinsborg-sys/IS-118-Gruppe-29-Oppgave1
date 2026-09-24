@@ -38,7 +38,8 @@ Til slutt kan Erling oppsummere hva gruppen har blitt enige om. Før møtet er f
 eller mandater som ikke bare fokuserer på "jerntriangelet" (tid, kostnad, kvalitet),
 men også på relasjonelle forhold og hvordan samarbeidet mellom prosjekteier
 og prosjektleder skal foregå.
-1. ### Proaktive mekanismer for konflikthåndtering
+
+### Proaktive mekanismer for konflikthåndtering:
 Ett godt start punkt for å minske konflikt og uenigheter er å ha jevnlige møter hvor gruppa snakker og drøfter om aktuelle saker. Dette kan for eksempel være møter en gang uka, gjerne for eksempel rundt onsdag eller torsdag, sånn at man har kommet litt inn i arbeidet og vet hva som gjelder og eventuelle uenigheter om hvordan oppdrag skal håndteres. Det er viktig å holde debattering direkte om saken og ikke gjør det personlig, ettersom dette kan eskalere og gjøre det vanskeligere å jobbe sammen. Hvis det er vanskelig å holde diskusjonen saklig kan det vær bra med en nøytral part som passer på strukturen i debatten.
 Gruppen burde ha regler relatert til oppførsel. Det kan være å passe på at alle blir inkludert og får sagt sin mening. Med grupper som denne hvor erfaring og bakgrunn er forskjellig har det enda mer relevans. Forskjellige synspunkter kan faktisk være en flott ting som hjelper forsikre kvalitet og gir et brede syn på saker.
 Gruppen bør også være respektfullt skille person fra mening. Man bør ikke snakke over hverandre, behandle hverandre med respekt selv om man er uenig. Uenigheter går fint men for å unngå eskalering og problemer er det viktig å holde det saklig og på en konstruktiv måte. Å ta problemer opp tidlig hjelper mye med å holde kontroll og unngå et lite problem til å eskalere.
@@ -59,4 +60,7 @@ Det har likevel vært noen tilfeller hvor arbeidsfordelingen har blitt litt skje
 Hvis vi skulle laget gruppekontrakten på nytt, ville vi beholdt det meste slik det er. Vi kunne likevel vært mer konkrete når det gjelder tidsfrister og hva som skjer dersom en oppgave ikke blir gjort innen avtalt tid. Vi kunne også hatt tydeligere regler for hvordan vi håndterer sykdom og fravær. Dersom noen er syke, men fortsatt er i form til å bidra, kan personen for eksempel delta hjemmefra slik at gruppearbeidet fortsatt kan gå som planlagt.
 
 Totalt sett synes vi gruppekontrakten har fungert godt, og vi har ikke opplevd noen store problemer med den. Vi ville derfor valgt mange av de samme reglene og forventningene dersom vi skulle gjennomført et lignende gruppearbeid i framtiden.
+
+### Kildeliste:
+Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
 
