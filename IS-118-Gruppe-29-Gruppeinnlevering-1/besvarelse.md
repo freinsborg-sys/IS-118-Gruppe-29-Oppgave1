@@ -1,29 +1,50 @@
 # Oppgave 1
 
-### 1.
-Når Erling skal velge hvem som skal være med i prosjektgruppen, er det naturlig å starte med hvilken kompetanse prosjektet trenger. Samtidig er det ikke nødvendigvis de beste fagpersonene hver for seg som vil gi den beste gruppen. Medlemmene skal jobbe tett sammen over en begrenset periode, og derfor vil blant annet samarbeidsevne og kommunikasjon også ha betydning (Jacobsen, 2016, s. 32).
-   
-Jacobsen (2016, s. 33–34) trekker fram fire roller som bør være representert i en gruppe: produksjon, administrasjon, integrasjon og entreprenørskap. Noen må være opptatt av å få arbeidet gjort, mens andre kan være bedre på struktur og oversikt. Gruppen trenger også personer som bidrar til det sosiale og får medlemmene til å fungere sammen. I tillegg er det nyttig å ha noen som utfordrer måten gruppen jobber på og kommer med nye ideer. Én person kan dekke flere av disse rollene, så poenget er først og fremst at gruppen samlet har en god blanding.
+### Strategi for rekruttering og sammensetning:
+Når Erling skal sette sammen prosjektgruppen, bør han ikke bare se på hvem som har best faglig kompetanse. Det er også viktig å tenke på hvordan personene vil fungere sammen. For eksempel vil samarbeidsevne, kommunikasjon og analytiske ferdigheter være viktig for hvordan gruppen fungerer gjennom prosjektet (Jacobsen, 2016, s. 32) 
 
-Sammensetningen handler likevel ikke bare om å få mest mulig variasjon. Ulik faglig bakgrunn og erfaring kan være positivt, særlig når prosjektet krever nye ideer og løsninger. Samtidig viser Jacobsen (2016, s. 34–35) at grupper med stort mangfold kan oppleve mer konflikt. Litt sosial og demografisk likhet mellom medlemmene kan gjøre det enklere å få tillit til hverandre tidlig. Tidligere erfaring med å jobbe sammen kan også være en fordel.
+En prosjektgruppe trenger personer som kan bidra på forskjellige måter. Jacobsen (2016, s. 33–34) deler dette inn i fire roller: produksjon, administrasjon, integrasjon og entreprenørskap. Noen må sørge for at oppgavene faktisk blir gjort, mens andre er flinke til å holde struktur og oversikt. Samtidig trengs det personer som bidrar til et godt samarbeid i gruppen, og noen som kommer med nye ideer og tør å stille spørsmål ved måten ting blir gjort på. Erling trenger ikke én person til hver rolle, men bør passe på at gruppen dekker rollene samlet. 
 
-For Erling blir det derfor viktig å tenke på begge deler når gruppen settes sammen. Han trenger personer som tilfører forskjellig kompetanse og dekker ulike roller, men gruppen må samtidig ha gode muligheter til å samarbeide og bygge tillit. Dette er spesielt viktig tidlig i prosjektet, siden mange av deltakerne kanskje ikke kjenner hverandre fra før (Jacobsen, 2016, s. 31–35).
+Det er også viktig å finne en balanse mellom forskjeller og likheter i gruppen. Personer med ulik kompetanse og erfaring kan se ting på forskjellige måter, noe som kan være nyttig i prosjektet. Samtidig kan for store forskjeller gjøre det vanskeligere å samarbeide og føre til konflikter. Det kan derfor være en fordel at medlemmene også har noen likheter, siden dette kan gjøre det lettere å bygge tillit i starten av prosjektet (Jacobsen, 2016, s. 34–35). 
 
-2. Design av "det første møtet": Detaljerte forslag til agenda og aktiviteter for
-prosjektets oppstartsmøte. Dette skal fremme felles forståelse av mål og
-arbeidsfordeling, og inkludere viktigheten av "pseudo-arbeid" for
-relasjonsbygging.
-3. Rammer for relasjonelle kontrakter: Anbefalinger for utforming av kontrakter
+Erling bør derfor tenke på disse faktorene når prosjektgruppen bemannes. I hans prosjekt kommer deltakerne fra flere forskjellige fagområder, blant annet kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter. Det gir gruppen mye forskjellig kompetanse, men kan også bety at deltakerne jobber på forskjellige måter. Erling bør derfor prøve å sette sammen en gruppe som dekker de ulike teamrollene, men som også kan fungere godt sammen. 
+
+En gruppe med riktig fagkompetanse, ulike teamroller og gode forutsetninger for å utvikle tillit vil derfor ha et bedre utgangspunkt for å fungere godt sammen (Jacobsen, 2016, s. 31–35). 
+
+### Design av "det første møtet":
+Det første møtet er viktig for å få en god start på prosjektet. Flere av deltakerne kjenner kanskje ikke hverandre fra før, og de har forskjellig faglig bakgrunn. Møtet bør derfor ikke bare handle om informasjon om prosjektet. Det bør også brukes tid på å bli kjent og snakke om hvordan gruppen skal jobbe sammen. Jacobsen (2016, s. 37) skriver at det første møtet er viktig for teambyggingen, fordi det er her de første relasjonene mellom deltakerne oppstår.
+
+Erling kan starte møtet med å presentere målet med medborgerportalen, tidsrammen på 15 måneder og budsjettet på 8 millioner kroner. Deretter kan deltakerne presentere seg selv og fortelle litt om hvilken rolle de har i prosjektet. Da får alle vite mer om hvem de skal jobbe sammen med.
+
+Det bør også være tid til vanlig småprat. Jacobsen (2016, s. 37) kaller dette «pseudo-arbeid». Selv om slike samtaler ikke handler direkte om prosjektet, kan de være nyttige. Deltakerne blir bedre kjent og får vite mer om hverandres erfaringer og hvordan de tenker. Dette kan gjøre det lettere å samarbeide senere.
+
+Gruppen bør også være med på planleggingen. Jacobsen (2016, s. 39) viser til at dette blant annet kan gi en bedre forståelse av planen og gjøre at deltakerne føler mer eierskap til den. Erling kan derfor la gruppen være med på å diskutere mål, oppgaver og tidsfrister, i stedet for at alt allerede er bestemt.
+
+Til slutt kan Erling oppsummere hva gruppen har blitt enige om. Før møtet er ferdig bør alle vite hva som skal gjøres videre, hvem som har ansvar for hva og når gruppen skal møtes igjen.
+
+### Forslag til hvordan Erling kan sette opp det første møtet:
+
+| Tid | Aktivitet | 
+| --- | --- | 
+| 09:00–09:20 | Presentasjon av prosjektet | 
+| 09:20–09:40 | Presentasjonsrunde | 
+| 09:40–10:10 | Diskusjon om mål og forventninger | 
+| 10:10–10:30 | Pause og uformell prat | 
+| 10:30–11:15 | Fordeling av roller og ansvar | 
+| 11:15–11:45 | Felles planlegging av oppgaver og tidsfrister | 
+| 11:45–12:00 | Oppsummering | 
+
+1. Rammer for relasjonelle kontrakter: Anbefalinger for utforming av kontrakter
 eller mandater som ikke bare fokuserer på "jerntriangelet" (tid, kostnad, kvalitet),
 men også på relasjonelle forhold og hvordan samarbeidet mellom prosjekteier
 og prosjektleder skal foregå.
-4. Proaktive mekanismer for konflikthåndtering: Forslag til konkrete ordninger og
+1. Proaktive mekanismer for konflikthåndtering: Forslag til konkrete ordninger og
 prosedyrer for å identifisere, drøfte og avgjøre uenigheter tidlig i prosjektet, for å
 unngå eskalering.
-5. Håndtering av tidspress og "planleggingsfellen": Råd til prosjektlederen om
+1. Håndtering av tidspress og "planleggingsfellen": Råd til prosjektlederen om
 hvordan man kan motvirke det sterke handlingspresset i tidlig fase og balansere
 behovet for en klar plan med fleksibilitet.
-6. Sikring av god kommunikasjon: Råd og anbefalinger som prosjektlederen kan
+6g. Sikring av god kommunikasjon: Råd og anbefalinger som prosjektlederen kan
 benytte for å sikre en god og effektiv kommunikasjon i teamet.
 
 # Egenevalueringm av gruppekontrakt
