@@ -48,3 +48,13 @@ behovet for en klar plan med fleksibilitet.
 benytte for å sikre en god og effektiv kommunikasjon i teamet.
 
 # Egenevalueringm av gruppekontrakt
+Vi synes gruppekontrakten har fungert bra og har vært et godt utgangspunkt for samarbeidet i gruppen. Reglene vi satte i starten har i stor grad blitt fulgt, og alle har vært klar over hva som forventes av dem. Kommunikasjonen har fungert godt, og dersom vi har avtalt et tidspunkt for gruppearbeid, har folk møtt opp. Hvis noen ikke har hatt mulighet til å møte, har det blitt gitt beskjed i god tid.
+
+Vi har også vært flinke til å fordele arbeidsoppgaver mellom oss. Oppgavene som har blitt tildelt har stort sett blitt gjennomført innen fristene vi har satt. Vi føler også at arbeidet og innholdet vi har levert så langt samsvarer med karakterambisjonen vi satte oss i starten av prosjektet.
+
+Det har likevel vært noen tilfeller hvor arbeidsfordelingen har blitt litt skjev. Dette mener vi blant annet skyldes at gruppen vår kun består av fire personer, mens flere andre grupper består av seks eller sju. Det betyr at hver person på gruppen vår ofte må ta ansvar for en større del av arbeidet.
+
+Hvis vi skulle laget gruppekontrakten på nytt, ville vi beholdt det meste slik det er. Vi kunne likevel vært mer konkrete når det gjelder tidsfrister og hva som skjer dersom en oppgave ikke blir gjort innen avtalt tid. Vi kunne også hatt tydeligere regler for hvordan vi håndterer sykdom og fravær. Dersom noen er syke, men fortsatt er i form til å bidra, kan personen for eksempel delta hjemmefra slik at gruppearbeidet fortsatt kan gå som planlagt.
+
+Totalt sett synes vi gruppekontrakten har fungert godt, og vi har ikke opplevd noen store problemer med den. Vi ville derfor valgt mange av de samme reglene og forventningene dersom vi skulle gjennomført et lignende gruppearbeid i framtiden.
+
