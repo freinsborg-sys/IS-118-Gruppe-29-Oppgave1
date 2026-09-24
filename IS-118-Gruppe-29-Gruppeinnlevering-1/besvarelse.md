@@ -47,7 +47,7 @@ behovet for en klar plan med fleksibilitet.
 6g. Sikring av god kommunikasjon: Råd og anbefalinger som prosjektlederen kan
 benytte for å sikre en god og effektiv kommunikasjon i teamet.
 
-# Egenevalueringm av gruppekontrakt
+# Egenevaluering av gruppekontrakt
 Vi synes gruppekontrakten har fungert bra og har vært et godt utgangspunkt for samarbeidet i gruppen. Reglene vi satte i starten har i stor grad blitt fulgt, og alle har vært klar over hva som forventes av dem. Kommunikasjonen har fungert godt, og dersom vi har avtalt et tidspunkt for gruppearbeid, har folk møtt opp. Hvis noen ikke har hatt mulighet til å møte, har det blitt gitt beskjed i god tid.
 
 Vi har også vært flinke til å fordele arbeidsoppgaver mellom oss. Oppgavene som har blitt tildelt har stort sett blitt gjennomført innen fristene vi har satt. Vi føler også at arbeidet og innholdet vi har levert så langt samsvarer med karakterambisjonen vi satte oss i starten av prosjektet.
