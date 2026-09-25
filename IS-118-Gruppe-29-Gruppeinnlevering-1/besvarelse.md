@@ -44,11 +44,45 @@ Ett godt start punkt for å minske konflikt og uenigheter er å ha jevnlige møt
 Gruppen burde ha regler relatert til oppførsel. Det kan være å passe på at alle blir inkludert og får sagt sin mening. Med grupper som denne hvor erfaring og bakgrunn er forskjellig har det enda mer relevans. Forskjellige synspunkter kan faktisk være en flott ting som hjelper forsikre kvalitet og gir et brede syn på saker.
 Gruppen bør også være respektfullt skille person fra mening. Man bør ikke snakke over hverandre, behandle hverandre med respekt selv om man er uenig. Uenigheter går fint men for å unngå eskalering og problemer er det viktig å holde det saklig og på en konstruktiv måte. Å ta problemer opp tidlig hjelper mye med å holde kontroll og unngå et lite problem til å eskalere.
 
-1. Håndtering av tidspress og "planleggingsfellen": Råd til prosjektlederen om
-hvordan man kan motvirke det sterke handlingspresset i tidlig fase og balansere
-behovet for en klar plan med fleksibilitet.
-6g. Sikring av god kommunikasjon: Råd og anbefalinger som prosjektlederen kan
-benytte for å sikre en god og effektiv kommunikasjon i teamet.
+5. Håndtering av tidspress og "planleggingsfellen"
+Når et prosjekt har en kort frist (15 måneder), er faren stor for at teamet enten hopper rett til løsninger uten planlegging, eller blir sittende fast i over-planlegging (paralyse by analysis).
+
+Konkrete råd til Erling:
+•	Bruk smidig prosjektmetodikk (f.eks. Scrum/Kanban):
+o	Dele opp de 15 månedene i korte spurter (2–3 uker).
+o	Lever funksjonelle deler av portalen fortløpende i stedet for å planlegge alt i detalj fra start.
+•	Sett av fast «tenketid» i oppstarten:
+
+o	Bruk de første 3–4 ukene utelukkende til behovsanalyser, prototype-testing og teambygging før ren kode- og systemutvikling starter.
+
+•	Prioriter med MVP (Minimum Viable Product):
+o	Definer hva portalen må ha ved lansering (f.eks. innspill til saker og saksoversikt), og hva som kan rulles ut i seinere oppdateringer (f.eks. avanserte digitale folkemøter).
+•	Definer tidsbokser (Timeboxing):
+
+o	Sett faste tidsfrister for planleggingsfaser. Når tiden er ute, fattes en beslutning basert på informasjonen som foreligger.
+
+6. Sikring av god kommunikasjon:
+Med et tverrfaglig team på 7–8 personer bestående av alt fra IT-utviklere og politikere til innbyggere, er det lett at misforståelser oppstår på grunn av ulik fagsjargon og forventninger.
+
+Konkrete råd til Erling:
+
+•	Etabler en «Kommunikasjonskontrakt»:
+
+o	Blir enige om hvilke kanaler som brukes til hva (f.eks. Teams/Slack til daglig dialog, e-post til formelle vedtak, og et felles prosjektverktøy som Jira/Trello for oppgaver).
+
+•	Innfør korte «Standup»-møter:
+
+o	Gjennomfør 15-minutters ukentlige eller halvukentlige sjekker der alle svarer på tre spørsmål: Hva har jeg gjort? Hva skal jeg gjøre? Hva hindrer meg?
+
+•	Oversett faguttrykk (Felles begrepsapparat):
+o	Lag en enkel "ordliste" for prosjektet slik at UX-designere, IT-sikkerhetseksporter og innbyggerrepresentanter har samme forståelse av sentrale begreper.
+
+•	Åpenhet og lav terskel for tilbakemelding:
+o	Arranger regelmessige retrospektiver (f.eks. månedlig) hvor teamet evaluerer hva som fungerer bra i samarbeidet, og hva som må justeres.
+
+•	Tilpass kommunikasjonen til prosjekteier og politisk ledelse:
+
+o	Gi politisk rådgiver og bystyret korte, visuelle statusrapporter (månedlige "dashbord") som viser fremdrift, budsjettstatus og prosjektrisiko på en enkel måte.
 
 # Egenevaluering av gruppekontrakt
 Vi synes gruppekontrakten har fungert bra og har vært et godt utgangspunkt for samarbeidet i gruppen. Reglene vi satte i starten har i stor grad blitt fulgt, og alle har vært klar over hva som forventes av dem. Kommunikasjonen har fungert godt, og dersom vi har avtalt et tidspunkt for gruppearbeid, har folk møtt opp. Hvis noen ikke har hatt mulighet til å møte, har det blitt gitt beskjed i god tid.
